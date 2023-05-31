@@ -1,0 +1,27 @@
+.cabecalho{
+    background-color: #006400;
+
+
+.retangulo{
+    width: 1904px;
+    height: 60px;
+    background: #000000;
+} 
+}
+
+.cabecalho-imagem{
+    width: 150px;
+    height: 38px;
+    vertical-align: text-top;
+    padding-top: 875px;
+    padding-left: 820px;
+    position: absolute;
+}
+
+.controle-imagem{
+    width: 90px;
+    height: 70px;
+    vertical-align: text-top;
+    padding-top: 0px;
+    position: absolute;
+}
